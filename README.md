@@ -16,12 +16,12 @@
 ## 🔎 About Me
 - I study **econometrics** and **causal inference** using real-world policy & social data.
 - I build **NLP / LLM-based systems** for text-driven tasks.
-- I’m interested in combining **machine learning** with **econometric research**.
+- I’m interested in combining **machine learning** with **Econometrics**.
 
 ---
 
 ## 🎯 Current Focus
-- **Econometrics** (Panel data, DID, Event study)
+- **Econometrics** 
 - **Machine Learning / Deep Learning**
 - **Natural Language Processing (NLP)**
 
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statsmodels-3B4D61?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linearmodels-2E7D32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyArrow-4B8BBE?style=for-the-badge"/>
 </p>
 
 ### 📈 Visualization
@@ -52,10 +51,8 @@
 ### 🤖 NLP / LLM
 <p>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 </p>
 
 ### ⚙ Etc

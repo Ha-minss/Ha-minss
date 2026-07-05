@@ -15,8 +15,8 @@
 ---
 
 ## 🔎 About Me
-My focus is on extracting insights from real-world data and connecting them to evidence-based decision-making.
-I have a background in machine learning, NLP/LLMs, econometrics, and causal inference, with a strong interest in applying data to real-world problems.
+- My focus is on extracting insights from real-world data and connecting them to evidence-based decision-making.
+- I have a background in machine learning, NLP/LLMs, econometrics, and causal inference, with a strong interest in applying data to real-world problems.
 ---
 
 ## 🎯 Current Focus

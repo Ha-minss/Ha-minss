@@ -15,10 +15,8 @@
 ---
 
 ## 🔎 About Me
-- I study **econometrics** and **causal inference** using real-world policy & social data.
-- I build **NLP / LLM-based systems** for text-driven tasks.
-- I’m interested in combining **machine learning** with **Econometrics**.
-
+My focus is on extracting insights from real-world data and connecting them to evidence-based decision-making.
+I have a background in machine learning, NLP/LLMs, econometrics, and causal inference, with a strong interest in applying data to real-world problems.
 ---
 
 ## 🎯 Current Focus
@@ -66,13 +64,13 @@
 
 ## 📌 Research (Selected)
 - **The Impact of Korea’s SECA on Air Quality in Northern Kyushu** (2025–2026)
-- **Refugee & Immigrant Inflows and Crime Rates in 30 European Countries** (2024–2025)
+- **Refugee Inflows and Crime Rates in 30 European Countries** (2024–2025)
 
 ---
 
 ## 🎓 Education
-- **Osaka University**, School of Law — Department of International Public Policy  
-- **Mathematics, Data Science & AI Education Program (Applied Basic Level)** — Completed
+- **Osaka University**, School of Law, Department of International Public Policy  
+- **Osaka University**, Mathematics, Data Science & AI Education Program
 
 ---
 
